@@ -1,5 +1,4 @@
-
-<img width="1024" height="666" alt="Gemini_Generated_Image_zfzhftzfzhftzfzh (1)" src="https://github.com/user-attachments/assets/a0c51571-3973-4454-a14a-0df8efbae87f" />
+<img width="824" height="466" alt="Gemini_Generated_Image_zfzhftzfzhftzfzh (1)" src="https://github.com/user-attachments/assets/a0c51571-3973-4454-a14a-0df8efbae87f" />
 
 
 ## Hi there 👋
