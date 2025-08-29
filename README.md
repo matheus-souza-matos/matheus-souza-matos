@@ -1,4 +1,4 @@
-![Imagem do WhatsApp de 2025-08-29 à(s) 17 18 12_f5f0032c](https://github.com/user-attachments/assets/d6f0fad5-5026-49f9-bb3f-1cf605708284)
+
 
 ## Hi there 👋
 
