@@ -2,7 +2,7 @@
 <img width="1248" height="407" alt="meu git" src="https://github.com/user-attachments/assets/cf7904fb-49d0-4106-a020-3035378af6d0" />
 
 
-## Hi there 👋
+## Bem-vindo ao meu universo de código e tecnologia👋
 
 <!--
 **matheus-souza-matos/matheus-souza-matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
