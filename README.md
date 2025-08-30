@@ -4,17 +4,20 @@
 
 ## Bem-vindo ao meu universo de código e tecnologia👋
 
+Olá, me chamo Matheus, sou programador de sistemas voltado para Back-end. Busco usar a tecnologia para realizar aquilo que me move: Criatividade, Resolução de Problemas e Curiosidade, além de aplica-la como ferramenta para criar soluções eficientes e inovadoras. 
+
+Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
+
+ • 💼 Atualmente trabalho como Aux. de faturamento, porém estou em busca da minha primeira oportunidade na área da programação;
+ • 🤓 Desenvolvedor de sistemas voltado para Back-end
+ • 💻 Atualmente mais focado em:
+
+ <div display="inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ </div>
+
+
 <!--
-**matheus-souza-matos/matheus-souza-matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
