@@ -11,8 +11,8 @@ Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
  • 💼 Atualmente trabalho como Aux. de faturamento, porém estou em busca da minha primeira oportunidade na área da programação;                                                            
  • 🤓 Desenvolvedor de sistemas voltado para Back-end;                                                                                                                                     
  • 💻 Atualmente mais focado em:                                                                                                                                                           
-                                                                                                                                                                                                          
- <div display="inline">
+
+<div display="inline">
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
