@@ -9,7 +9,7 @@ Olá, me chamo Matheus, sou programador de sistemas voltado para Back-end. Busco
 Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
 
  • 💼 Atualmente trabalho como Aux. de faturamento, porém estou em busca da minha primeira oportunidade na área da programação;
- • 🤓 Desenvolvedor de sistemas voltado para Back-end
+ • 🤓 Desenvolvedor de sistemas voltado para Back-end;
  • 💻 Atualmente mais focado em:
                                                                                                                                                                                                           
  <div display="inline">
