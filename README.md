@@ -24,7 +24,5 @@ Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
 <a href="https://www.linkedin.com/in/matozmatheus/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
 <!--
 -->
