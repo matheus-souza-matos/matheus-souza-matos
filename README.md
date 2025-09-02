@@ -18,9 +18,12 @@ Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
     &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;&nbsp;
  </div>
 
+
 #### Meu Linkedin:
 <a href="https://www.linkedin.com/in/matozmatheus/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+
 <!--
 -->
