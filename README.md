@@ -36,10 +36,8 @@ Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
   <br><br><a href="https://github.com/matheus-souza-matos/Projeto_Jogo">
    <img width="30" height="30" alt="download" src="https://github.com/user-attachments/assets/4daac0a5-ccb8-4c5e-9bdd-60f96e12fb07" />&nbsp;&nbsp; Projeto_Jogo_Número_Secreto
   </a>
- <br>
- <br>
  
-  <a href="https://github.com/matheus-souza-matos/Projeto_ValorNotaHp">
+  <br><br><a href="https://github.com/matheus-souza-matos/Projeto_ValorNotaHp">
    <img width="30" height="30" alt="Gemini_Generated_Image_oc1nz1oc1nz1oc1n" src="https://github.com/user-attachments/assets/4aac1571-76de-4322-bbe9-65d5749d8934" /> &nbsp;&nbsp; Projeto_Valor_Nota_HP
   </a>
   
