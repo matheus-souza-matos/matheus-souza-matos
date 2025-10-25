@@ -4,14 +4,14 @@
 
 ## Bem-vindo ao meu universo de código e tecnologia👋
 
-`Olá, me chamo Matheus, sou programador de sistemas voltado para Back-end. Busco usar a tecnologia para realizar aquilo que me move: Criatividade, Resolução de Problemas e Curiosidade, além de aplica-la como ferramenta para criar soluções eficientes e inovadoras.
+`Olá, me chamo Matheus, sou programador de sistemas voltado para Back-end. Busco usar a tecnologia para realizar aquilo que me move: Criatividade, Resolução de Problemas e Curiosidade, além de aplica-la como ferramenta para criar soluções eficientes e inovadoras.`
 
 
-Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
+`Explore meus repositórios e descubra como aplico tudo isso na tecnologia.`
 
- • 💼 Atualmente trabalho como Aux. de faturamento, porém estou em busca da minha primeira oportunidade na área da programação;                                               
- • 🤓 Desenvolvedor de sistemas voltado para Back-end;                                                                                                                        
- • 💻 Atualmente mais focado em:`                                                                                                                                                           
+ `• 💼 Atualmente trabalho como Aux. de faturamento, porém estou em busca da minha primeira oportunidade na área da programação;`                                               
+ `• 🤓 Desenvolvedor de sistemas voltado para Back-end;`                                                                                                                        
+ `• 💻 Atualmente mais focado em:`                                                                                                                                                          
 
 <div display="inline">
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> &nbsp;&nbsp;
