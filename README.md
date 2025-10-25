@@ -30,7 +30,7 @@ Explore meus repositórios e descubra como aplico tudo isso na tecnologia.
 #### Projetos Relevantes:
 
   <a href="https://github.com/matheus-souza-matos/PI-SENAC-VsControl">
-   <img width="30" height="30" alt="unnamed" src="https://github.com/user-attachments/assets/b52d673c-3a28-4bde-8375-49f9c52f5683" />&nbsp;&nbsp; PI-Senac_VsControl
+   <img width="30" height="30" alt="unnamed" src="https://github.com/user-attachments/assets/b52d673c-3a28-4bde-8375-49f9c52f5683" />; PI-Senac_VsControl
   </a>
  <br>
  <br>
