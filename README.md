@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-    <img src="URL_DA_SUA_IMAGEM_DE_PERFIL_OU_GRAFICO_3D" alt="Sua Imagem de Perfil" /> 
-</p>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 
