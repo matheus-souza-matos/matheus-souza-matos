@@ -1,4 +1,66 @@
+<h1 align="center">Matheus Matos</h1>
 
+<p align="center">
+  Estudante de Programação · Desenvolvedor Back-end (Foco em C# e Java)
+</p>
+
+---
+
+<p align="center">
+    <img src="URL_DA_SUA_IMAGEM_DE_PERFIL_OU_GRAFICO_3D" alt="Sua Imagem de Perfil" /> 
+</p>
+
+---
+
+## Sobre
+
+* **Foco:** Estudante de programação focado em desenvolvimento de sistemas **Back-end**.
+* **Linguagens Principais:** Tenho conhecimento adquirido em **Java**, **C#** e o framework **.NET**.
+* **Banco de Dados:** Sólido conhecimento em **MySQL**.
+* **Novos Desafios:** Atualmente, estou me aventurando no **JavaScript** para expandir minhas habilidades no desenvolvimento web.
+* **Objetivo:** Aplicar os conhecimentos técnicos adquiridos para criar soluções eficientes e inovadoras.
+
+## Conhecimentos Técnicos
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mysql,js,git" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+</div>
+
+## Projetos em Destaque
+
+* [NOME DO SEU PROJETO 1](LINK_PARA_O_SEU_PROJETO_1) – *Breve descrição do que o projeto faz (ex: Sistema de Gerenciamento de Estoque).*
+* [NOME DO SEU PROJETO 2](LINK_PARA_O_SEU_PROJETO_2) – *Breve descrição do que o projeto faz (ex: Aplicação Web Simples usando JS).*
+
+## Contato
+
+* [**LinkedIn**](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
+* [**GitHub**](https://github.com/SEU_USERNAME_AQUI)
+* [**Email**](mailto:SEU_EMAIL_AQUI)
+* [**Portfólio**](LINK_PARA_SEU_PORTFOLIO)
+
+---
+
+> Busco usar a tecnologia para realizar aquilo que me move: Criatividade, Resolução de Problemas e Curiosidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <img width="1248" height="407" alt="meu git" src="https://github.com/user-attachments/assets/cf7904fb-49d0-4106-a020-3035378af6d0" />
 
 
@@ -28,6 +90,10 @@
 
 ##
 
+
+
+##
+
 #### Projetos Relevantes:
 
   <a href="https://github.com/matheus-souza-matos/PI-SENAC-VsControl">
@@ -43,5 +109,5 @@
   </a>
   
 
-<!--
+
 -->
