@@ -14,7 +14,7 @@
 
 * **Foco:** Estudante de programação focado em desenvolvimento de sistemas **Back-end**.
 * **Linguagens Principais:** Tenho conhecimento adquirido em **Java**, **C#** e o framework **.NET**.
-* **Banco de Dados:** Sólido conhecimento em **MySQL**.
+* **Banco de Dados:** Conhecimento em **MySQL**.
 * **Novos Desafios:** Atualmente, estou me aventurando no **JavaScript** para expandir minhas habilidades no desenvolvimento web.
 * **Objetivo:** Aplicar os conhecimentos técnicos adquiridos para criar soluções eficientes e inovadoras.
 
