@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Matos</h1>
 
 <p align="center">
-  Estudante de Programação · Desenvolvedor Back-end (Foco em C# e Java)
+  Estudante de Programação · Desenvolvedor Back-end (C#, Java e JavaScript)
 </p>
 
 ---
