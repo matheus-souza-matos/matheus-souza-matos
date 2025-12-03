@@ -13,7 +13,6 @@
 ---
 
 <h2 align="center">Conhecimentos Técnicos</h2>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mysql,js,git" />
     <br>
@@ -21,7 +20,6 @@
 </div>
 
 ---
-
 <h2 align="center">Estatísticas:</h2>
 <div align = "center">
     
@@ -35,8 +33,9 @@
 
 ## Projetos em Destaque
 
-* [NOME DO SEU PROJETO 1](LINK_PARA_O_SEU_PROJETO_1) – *Breve descrição do que o projeto faz (ex: Sistema de Gerenciamento de Estoque).*
-* [NOME DO SEU PROJETO 2](LINK_PARA_O_SEU_PROJETO_2) – *Breve descrição do que o projeto faz (ex: Aplicação Web Simples usando JS).*
+* [PI-Senac: VsControl](https://github.com/matheus-souza-matos/PI-SENAC-VsControl) – *Breve descrição do que o projeto faz (ex: Sistema de Gerenciamento de Estoque).*
+* [Jogo - Número Secreto](https://github.com/matheus-souza-matos/Projeto_Jogo) – *Projeto *
+* [Valor Nota HP](https://github.com/matheus-souza-matos/Projeto_ValorNotaHp) – *Sistema criado para reduzir a margem de erro dos cálculos de impostos na emissão de nota fiscal de onde trabalho - Linguagem: JAVA*
 
 ## Contato
 
