@@ -6,7 +6,11 @@
 
 ---
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<div align = "center">
+    
+![](https://nirzak-streak-stats.vercel.app/?user=matheus-souza-matos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 ---
 
