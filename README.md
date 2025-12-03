@@ -1,23 +1,5 @@
 ![Logo Git](https://raw.githubusercontent.com/matheus-souza-matos/matheus-souza-matos/5ffdb107a77bf023b9d92fdb9a543114bd624817/git.png)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matozmatheus/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">Sobre mim</h2>
@@ -57,10 +39,10 @@
 
 ## Contato
 
-* [**LinkedIn**](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
-* [**Email**](mailto:SEU_EMAIL_AQUI)
-* [**Portfólio**](LINK_PARA_SEU_PORTFOLIO)
-
+<a href="https://www.linkedin.com/in/matozmatheus/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
 ---
 
 > Busco usar a tecnologia para realizar aquilo que me move: Criatividade, Resolução de Problemas e Curiosidade.
