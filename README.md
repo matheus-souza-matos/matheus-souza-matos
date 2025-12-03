@@ -4,6 +4,9 @@
   Estudante de Programação · Desenvolvedor Back-end (C#, Java e JavaScript)
 </p>
 
+<img src = "file://C:/Users/Matheus%20Matos/Desktop/git.png"/>
+ 
+
 ---
 
 <div align = "center">
