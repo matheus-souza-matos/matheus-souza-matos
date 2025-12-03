@@ -33,8 +33,8 @@
 
 ## Projetos em Destaque
 
-* [PI-Senac: VsControl](https://github.com/matheus-souza-matos/PI-SENAC-VsControl) – *Breve descrição do que o projeto faz (ex: Sistema de Gerenciamento de Estoque).*
-* [Jogo - Número Secreto](https://github.com/matheus-souza-matos/Projeto_Jogo) – *Projeto *
+* [PI-Senac: VsControl](https://github.com/matheus-souza-matos/PI-SENAC-VsControl) – *Sistema de gestão e controle de estoque - Projeto desenvolvido como conclusão do curso Desenvolvedor de Sistemas - Linguagem: C#.NET*
+* [Jogo - Número Secreto](https://github.com/matheus-souza-matos/Projeto_Jogo) – *Um jogo simples de adivinhação com feedbacks de dicas para cada palpite, com limites de erros para aumentar o desafio. - Linguagem: JVA*
 * [Valor Nota HP](https://github.com/matheus-souza-matos/Projeto_ValorNotaHp) – *Sistema criado para reduzir a margem de erro dos cálculos de impostos na emissão de nota fiscal de onde trabalho - Linguagem: JAVA*
 
 ## Contato
