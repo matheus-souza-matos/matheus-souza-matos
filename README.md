@@ -1,25 +1,5 @@
-<h1 align="center">Matheus Matos</h1>
-
-<p align="center">
-  Estudante de Programação · Desenvolvedor Back-end (C#, Java e JavaScript)
-</p>
-
 ![Logo Git](https://raw.githubusercontent.com/matheus-souza-matos/matheus-souza-matos/5ffdb107a77bf023b9d92fdb9a543114bd624817/git.png)
 
-<img src = "file://C:/Users/Matheus%20Matos/Desktop/git.png"/>
- 
-
----
-
-<div align = "center">
-    
-![](https://nirzak-streak-stats.vercel.app/?user=matheus-souza-matos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
-
-<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
-
-</div>
-
----
 
 ## Sobre
 
@@ -36,6 +16,18 @@
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,github" />
 </div>
+
+---
+
+<div align = "center">
+    
+![](https://nirzak-streak-stats.vercel.app/?user=matheus-souza-matos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+
+</div>
+
+---
 
 ## Projetos em Destaque
 
