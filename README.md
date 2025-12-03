@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">Sobre</h2>
+<h2 align="center">Sobre mim</h2>
 
 * **Foco:** Estudante de programação focado em desenvolvimento de sistemas **Back-end**.
 * **Linguagens Principais:** Tenho conhecimento adquirido em **Java**, **C#** e o framework **.NET**.
