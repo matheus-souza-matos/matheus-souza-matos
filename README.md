@@ -1,7 +1,8 @@
 ![Logo Git](https://raw.githubusercontent.com/matheus-souza-matos/matheus-souza-matos/5ffdb107a77bf023b9d92fdb9a543114bd624817/git.png)
 
+---
 
-## Sobre
+<h2 align="center">Sobre</h2>
 
 * **Foco:** Estudante de programação focado em desenvolvimento de sistemas **Back-end**.
 * **Linguagens Principais:** Tenho conhecimento adquirido em **Java**, **C#** e o framework **.NET**.
@@ -9,7 +10,9 @@
 * **Novos Desafios:** Atualmente, estou me aventurando no **JavaScript** para expandir minhas habilidades no desenvolvimento web.
 * **Objetivo:** Aplicar os conhecimentos técnicos adquiridos para criar soluções eficientes e inovadoras.
 
-## Conhecimentos Técnicos
+---
+
+<h2 align="center">Conhecimentos Técnicos</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mysql,js,git" />
@@ -19,6 +22,7 @@
 
 ---
 
+<h2 align="center">Estatísticas:</h2>
 <div align = "center">
     
 ![](https://nirzak-streak-stats.vercel.app/?user=matheus-souza-matos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
